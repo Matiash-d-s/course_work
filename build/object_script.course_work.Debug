@@ -1,0 +1,11 @@
+debug/addcompany.o
+debug/addproduct.o
+debug/main.o
+debug/mainwindow.o
+debug/newproduct.o
+debug/posttable.o
+debug/moc_addcompany.o
+debug/moc_addproduct.o
+debug/moc_mainwindow.o
+debug/moc_newproduct.o
+debug/moc_posttable.o

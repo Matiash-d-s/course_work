@@ -1,0 +1,11 @@
+release/addcompany.o
+release/addproduct.o
+release/main.o
+release/mainwindow.o
+release/newproduct.o
+release/posttable.o
+release/moc_addcompany.o
+release/moc_addproduct.o
+release/moc_mainwindow.o
+release/moc_newproduct.o
+release/moc_posttable.o
